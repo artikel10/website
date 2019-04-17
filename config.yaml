@@ -1,3 +1,22 @@
-baseURL: http://example.org/
-languageCode: en-us
-title: My New Hugo Site
+baseURL: https://artikel10.org
+languageCode: de
+title: Artikel10
+theme: ananke
+
+blackfriday:
+  hrefTargetBlank: true
+  noreferrerLinks: true
+
+privacy:
+  disqus:
+    disable: true
+  googleAnalytics:
+    disable: true
+  instagram:
+    disable: true
+  twitter:
+    disable: true
+  vimeo:
+    simple: true
+  youtube:
+    privacyEnhanced: true
