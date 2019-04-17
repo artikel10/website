@@ -12,9 +12,9 @@ type: page
 
 ## §2 Tagesordnung
 
-2.1 Die Tagesordnung wird von dem/der 1. Vorsitzenden in Zusammenarbeit mit dem/der 2. Vorsitzenden aufgestellt.
+2.1 Die Tagesordnung wird von dem/der Vorsitzenden in Zusammenarbeit mit dem/der stellvertretenden Vorsitzenden aufgestellt.
 
-2.2 Die Tagesordnung muss alle Anträge der Vorstandsmitglieder enthalten, die bis sieben Tage vor der Sitzung bei dem/der 1. Vorsitzenden eingegangen sind.
+2.2 Die Tagesordnung muss alle Anträge der Vorstandsmitglieder enthalten, die bis sieben Tage vor der Sitzung bei dem/der Vorsitzenden eingegangen sind.
 
 2.3 Die Tagesordnung ist den Vorstandsmitgliedern drei Tage vor dem Sitzungstermin schriftlich mitzuteilen.
 
@@ -28,7 +28,7 @@ type: page
 
 ## §4 Sitzungsleitung
 
-4.1 Die Sitzungen des Vorstands werden von dem/der 1. Vorsitzenden geleitet. Ist der/die 1. Vorsitzende verhindert, leitet der/die 2. Vorsitzende die Sitzung.
+4.1 Die Sitzungen des Vorstands werden von dem/der Vorsitzenden geleitet. Ist der/die Vorsitzende verhindert, leitet der/die stellvertretende Vorsitzende die Sitzung.
 
 ## §5 Beratungs- und Beschlussgegenstände
 
@@ -56,4 +56,4 @@ type: page
 
 ## Historie
 
-* 2018-10-31: Entwurfsfassung
+* 2019-04-17: Entwurfsfassung

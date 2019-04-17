@@ -122,11 +122,11 @@ Artikel10 ist eine galaktische Gemeinschaft von Lebewesen, unabhängig von Alter
 
 8.6 Auf Antrag eines Mitglieds ist geheim abzustimmen. Über die Beschlüsse der Mitgliederversammlung ist ein Protokoll anzufertigen, das von Versammlungsleiter/in und Protokollführer/in zu unterzeichnen ist. Das Protokoll ist allen Mitgliedern zugänglich zu machen und auf der nächsten Mitgliederversammlung genehmigen zu lassen.
 
-8.7 Die Mitgliederversammlung wählt den/die Versammlungsleiter/in, den Vorstand und die Finanzprüfer/innen. Bei der Wahl des/der Vorsitzenden, des/der Schatzmeisters/in und des/der Schriftführers/in ist gewählt, wer die meisten abgegebenen Stimmen erhält. Bei Stimmengleichheit findet eine Stichwahl statt. Bei der Wahl der Finanzprüfer/innen sind diejenigen beiden Kandidatinnen oder Kandidaten gewählt, die die meisten Stimmen erhalten. Bei Stimmengleichheit findet eine Stichwahl statt. Bei erneuter Stimmengleichheit entscheidet in beiden Fällen das Los.
+8.7 Die Mitgliederversammlung wählt den/die Versammlungsleiter/in, den Vorstand und die Finanzprüfer/innen. Bei der Wahl des/der Vorsitzenden, des/der stellvertretenden Vorsitzenden und des/der Schatzmeisters/in ist gewählt, wer die meisten abgegebenen Stimmen erhält. Bei Stimmengleichheit findet eine Stichwahl statt. Bei der Wahl der Finanzprüfer/innen sind diejenigen beiden Kandidatinnen oder Kandidaten gewählt, die die meisten Stimmen erhalten. Bei Stimmengleichheit findet eine Stichwahl statt. Bei erneuter Stimmengleichheit entscheidet in beiden Fällen das Los.
 
 ## §9 Vorstand
 
-9.1 Der Vorstand besteht aus drei Mitgliedern: dem/der Vorsitzenden, dem/der Schatzmeister/in, dem/der Schriftführer/in.
+9.1 Der Vorstand besteht aus drei Mitgliedern: dem/der Vorsitzenden, dem/der stellvertretenden Vorsitzenden, dem/der Schatzmeister/in.
 
 9.2 Je zwei Vorstandsmitglieder vertreten den Verein gemeinsam.
 
@@ -164,4 +164,4 @@ Artikel10 ist eine galaktische Gemeinschaft von Lebewesen, unabhängig von Alter
 
 ## Historie
 
-* 2019-03-12: Entwurfsfassung
+* 2019-04-17: Entwurfsfassung
