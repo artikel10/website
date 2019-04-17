@@ -7,6 +7,11 @@ blackfriday:
   hrefTargetBlank: true
   noreferrerLinks: true
 
+menu:
+  main:
+  - name: Satzung
+    url: /verein/satzung/
+
 privacy:
   disqus:
     disable: true
