@@ -1,7 +1,10 @@
 baseURL: https://artikel10.org
 languageCode: de
 title: Artikel10
-theme: ananke
+
+theme:
+  - ananke-tweaks
+  - ananke
 
 blackfriday:
   hrefTargetBlank: true
@@ -22,6 +25,6 @@ privacy:
   twitter:
     disable: true
   vimeo:
-    simple: true
+    disable: true
   youtube:
-    privacyEnhanced: true
+    disable: true

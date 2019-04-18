@@ -1,0 +1,6 @@
+# theme.toml template for a Hugo theme
+# See https://github.com/gohugoio/hugoThemes#themetoml for an example
+
+name = "Ananke Tweaks"
+description = "Ananke theme tweaks for Artikel10"
+min_version = 0.42
