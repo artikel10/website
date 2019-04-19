@@ -1,6 +1,5 @@
 ---
 title: Artikel10
-description: Verein für digitalen Grundrechtsschutz
 date: 2019-04-16T20:54:29+02:00
 type: page
 layout: single
