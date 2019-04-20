@@ -7,9 +7,8 @@ layout: single
 
 ## Verein für digitalen Grundrechtsschutz
 
-Artikel10 setzt sich für die Grundrechte des Informationszeitalters wie
-[Telekommunikationsfreiheit][] oder [Vertraulichkeit und Integrität
-informationstechnischer Systeme][IT-Grundrecht] ein.
+Artikel10 setzt sich für Grundrechte des Informationszeitalters wie die
+[Telekommunikationsfreiheit][] oder das [IT-Grundrecht][] ein.
 
 Wir möchten möglichst viele Menschen dabei unterstützen, sicher und vertraulich
 zu kommunizieren. Dazu gehört zum Beispiel der Betrieb von [Tor][] Relays und
