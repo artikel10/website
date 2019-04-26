@@ -114,7 +114,7 @@ Artikel10 ist eine galaktische Gemeinschaft von Lebewesen, unabhängig von Alter
 
 8.2 Die ordentliche Mitgliederversammlung findet einmal pro Kalenderjahr statt. Außerordentliche Mitgliederversammlungen werden auf Beschluss des Vorstandes abgehalten, wenn die Interessen des Vereins dies erfordern, oder wenn mindestens ein Drittel aller Mitglieder dies unter Angabe des Zwecks schriftlich beantragen. Die Einberufung der Mitgliederversammlung erfolgt in Textform durch den Vorstand mit einer Frist von mindestens zwei Wochen. Zur Wahrung der Frist reicht die Aufgabe der Einladung zur Post an die letzte bekannte Anschrift oder die Versendung an die zuletzt bekannte E-Mail-Adresse. Hierbei sind die Tagesordnung bekannt zu geben und der Mitgliederversammlung die nötigen Informationen zugänglich zu machen. Anträge zur Tagesordnung sind mindestens sieben Tage vor der Mitgliederversammlung bei der Geschäftsstelle in Textform einzureichen. Über die Behandlung von Initiativanträgen entscheidet die Mitgliederversammlung.
 
-8.3 Die Mitgliederversammlung ist beschlussfähig, wenn mindestens ein Drittel aller Mitglieder anwesend sind. Beschlüsse sind jedoch gültig, wenn die Beschlussfähigkeit vor der Beschlussfassung nicht angezweifelt worden ist. Ist die Mitgliederversammlung aufgrund mangelnder Teilnehmerzahl nicht beschlussfähig, ist die darauf folgende ordentlich einberufene Mitgliederversammlung ungeachtet der Teilnehmerzahl beschlussfähig.
+8.3 Die Mitgliederversammlung ist beschlussfähig, wenn mindestens ein Drittel aller ordentlichen Mitglieder anwesend sind. Beschlüsse sind jedoch gültig, wenn die Beschlussfähigkeit vor der Beschlussfassung nicht angezweifelt worden ist. Ist die Mitgliederversammlung aufgrund mangelnder Teilnehmerzahl nicht beschlussfähig, ist die darauf folgende ordentlich einberufene Mitgliederversammlung ungeachtet der Teilnehmerzahl beschlussfähig.
 
 8.4 Beschlüsse über Satzungsänderungen oder über die Auflösung des Vereins bedürfen zu ihrer Rechtswirksamkeit der Zweidrittelmehrheit der anwesenden stimmberechtigten Mitglieder. In allen anderen Fällen genügt die einfache Mehrheit.
 
@@ -164,4 +164,4 @@ Artikel10 ist eine galaktische Gemeinschaft von Lebewesen, unabhängig von Alter
 
 ## Historie
 
-* 2019-04-17: Entwurfsfassung
+* 2019-04-26: Gründungsfassung

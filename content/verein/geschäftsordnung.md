@@ -56,4 +56,4 @@ type: page
 
 ## Historie
 
-* 2019-04-17: Entwurfsfassung
+* 2019-04-26: Gründungsfassung
