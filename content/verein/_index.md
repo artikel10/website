@@ -7,6 +7,10 @@ layout: single
 
 Hier findest Du verschiedene Dokumente des Vereins:
 
-* Die [Satzung](/verein/satzung/)
-* Die [Beitragsordnung](/verein/beitragsordnung/)
-* Die [Geschäftsordnung des Vorstands](/verein/geschäftsordnung/)
+* [Satzung](/verein/satzung/)
+* [Beitragsordnung](/verein/beitragsordnung/)
+* [Geschäftsordnung des Vorstands](/verein/geschäftsordnung/)
+* [Mitgliedsantrag](/documents/artikel10-mitgliedsantrag.pdf)
+
+Falls Du uns unterstützen möchtest, schick uns bitte den Mitgliedsantrag
+ausgefüllt und unterschrieben zu.
