@@ -6,7 +6,7 @@ type: page
 
 Unsere Emailadresse für direkte Anfragen ist <info@artikel10.org>.
 
-Es gibt auch eine [Mailingliste][], die von uns und anderen Interessierten
-gelesen wird.
+Es gibt auch eine öffentliche [Mailingliste][], die von uns und anderen
+Interessierten gelesen wird.
 
 [Mailingliste]: https://lists.riseup.net/www/info/artikel10
