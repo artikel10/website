@@ -22,7 +22,7 @@ Artikel10 ist eine galaktische Gemeinschaft von Lebewesen, unabhängig von Alter
 
 ## §2 Zweck des Vereins
 
-2.1 Zweck des Vereins ist die Förderung der Wissenschaft und Forschung, der Volks- und Berufsbildung und der Hilfe für politisch, rassisch oder religiös Verfolgte, für Flüchtlinge und Vertriebene.
+2.1 Zweck des Vereins ist die Förderung der Wissenschaft und Forschung, der Volks- und Berufsbildung und der Hilfe für politisch, rassisch oder religiös Verfolgte, für Flüchtlinge und Vertriebene sowie die Mittelbeschaffung für die Verwirklichung dieses steuerbegünstigten Zweckes durch andere steuerbegünstigte Körperschaften und Körperschaften des öffentlichen Rechts.
 
 2.2 Der Satzungszweck wird verwirklicht insbesondere durch:
 
@@ -42,7 +42,7 @@ Artikel10 ist eine galaktische Gemeinschaft von Lebewesen, unabhängig von Alter
 
 3.2 Der Verein ist selbstlos tätig. Er verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke. Mittel des Vereins dürfen nur für die satzungsgemäßen Zwecke verwendet werden.
 
-3.3 Die Mitglieder des Vereins erhalten in ihrer Eigenschaft als Mitglieder keine Zuwendungen aus Mitteln des Vereins. Niemand darf durch Ausgaben, die dem Zweck des Vereins fremd sind, oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.
+3.3 Die Mitglieder des Vereins erhalten in ihrer Eigenschaft als Mitglieder keine Zuwendungen aus Mitteln des Vereins. Es darf keine Person durch Ausgaben, die dem Zweck des Vereins fremd sind, oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.
 
 ## §4 Finanzen
 
@@ -165,3 +165,4 @@ Artikel10 ist eine galaktische Gemeinschaft von Lebewesen, unabhängig von Alter
 ## Historie
 
 * 2019-04-26: Gründungsfassung
+* 2019-05-16: Durch das Finanzamt korrigierte Fassung
