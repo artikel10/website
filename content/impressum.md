@@ -19,5 +19,5 @@ Fax:
 
 Vertretungsberechtigter Vorstand:  
 Alexander Dietrich  
-Alexander Buckbauer  
+Alexander Bruckbauer  
 Matthias Marx
