@@ -7,7 +7,7 @@ type: page
 Verantwortlich für den Inhalt dieser Seiten ist der Verein Artikel10.
 
 Anschrift:  
-Artikel10  
+Artikel10 e.V.  
 Rückertstr. 41  
 22089 Hamburg
 
@@ -21,3 +21,6 @@ Vertretungsberechtigter Vorstand:
 Alexander Dietrich  
 Alexander Bruckbauer  
 Matthias Marx
+
+Registernummer VR 24066  
+Amtsgericht Hamburg
