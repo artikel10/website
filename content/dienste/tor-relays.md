@@ -5,11 +5,9 @@ type: page
 layout: single
 ---
 
-Das [Tor-Projekt][] erforscht sichere Internetkommunikation bei geringer
-[Latenz][] und stellt das Netzwerk der Allgemeinheit kostenfrei zur Verfügung.
+Das [Tor-Projekt] ermöglicht anonyme Kommunikation im Internet bei niedriger [Latenz]. Viele Freiwillige betreiben die Server, die zusammen das Tor Netzwerk bilden, und stellen sie der Allgemeinheit kostenfrei zur Verfügung.
 
-Der Verein unterstützt das Projekt durch den Betrieb von Exit Relays, die den
-Zugang vom Tor Netzwerk zum Rest des Internets ermöglichen.
+Der Verein unterstützt das Projekt durch den Betrieb von Exit Relays, die den Zugang vom Tor Netzwerk zum Rest des Internets ermöglichen.
 
 * [Artikel10Exit1][]
   * Standort: Frankfurt
