@@ -5,9 +5,11 @@ title: Artikel10 e.V.
 menu:
   main:
   - name: Blog
-    url: /blog/
+    url: /blog
+  - name: Tor Relays
+    url: /dienste/tor-relays
   - name: Verein
-    url: /verein/
+    url: /verein
 
 theme:
   - ananke-tweaks
