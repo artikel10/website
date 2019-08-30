@@ -9,3 +9,8 @@ if [ "$1" = "test" ]; then
 else
     rsync -aiv --delete public/ artikel10@artikel10.org:
 fi
+
+PRODUCTION=$(grep -E '<body.*production.*>' public/index.html | wc -l)
+if [[ $PRODUCTION = 0 ]]; then
+    echo "WARNING: No production build!"
+fi
