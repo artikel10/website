@@ -14,9 +14,6 @@ Rückertstr. 41
 E-Mail:  
 info@artikel10.org
 
-Fax:  
-+49 32 221950837
-
 Vertretungsberechtigter Vorstand:  
 Alexander Dietrich  
 Alexander Bruckbauer  
