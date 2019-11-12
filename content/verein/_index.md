@@ -12,6 +12,7 @@ Hier findest Du verschiedene Dokumente des Vereins:
 * [Geschäftsordnung des Vorstands](/verein/geschäftsordnung/)
 
 Falls Du uns unterstützen möchtest, schick uns bitte den [Mitgliedsantrag][]
-ausgefüllt und unterschrieben zu.
+ausgefüllt und unterschrieben zu. Die Kontoverbindung bekommst Du dann zusammen
+mit unserer Begrüßungsemail.
 
 [Mitgliedsantrag]: /documents/mitgliedsantrag.html
