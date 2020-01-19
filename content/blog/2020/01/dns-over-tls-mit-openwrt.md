@@ -85,11 +85,11 @@ _Status / Processes_ neugestartet werden:
 * Unbound (_/usr/sbin/unbound_) per _Hang Up_ neustarten.
 
 Zu diesem Zeitpunkt sollten öffentliche DNS-Anfragen an den DoT Server gehen.
-Dies lässt sich mit dem [DNS Leak Test] prüfen, der eine der konfigurierten
+Dies lässt sich mit dem [DNS Leak Test][] prüfen, der eine der konfigurierten
 IP-Adressen anzeigen sollte.
 
 Idealerweise validiert der DoT Server auch [DNSSEC][], was z.B. der
-[DNSSEC Resolver Test] anzeigt.
+[DNSSEC Resolver Test][] anzeigt.
 
 Bei Problemen kann die Zone deaktiviert und Unbound neugestartet werden.
 Öffentliche DNS-Anfragen werden dann allerdings wieder unverschlüsselt
