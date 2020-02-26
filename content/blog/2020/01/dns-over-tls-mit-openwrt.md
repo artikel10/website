@@ -25,7 +25,7 @@ Neue Softwarepakete werden unter _System / Software_ installiert:
 * Zuerst mit _Update lists..._ die Liste der verfügbaren Pakete aktualisieren.
 * Dann folgende Pakete (in dieser Reihenfolge) installieren:
    * `ca-bundle`
-   * `libunbound`
+   * `libunbound` bzw. `libunbound-light`
    * `unbound-daemon`
    * `luci-app-unbound`
 
@@ -94,6 +94,18 @@ Idealerweise validiert der DoT Server auch [DNSSEC][], was z.B. der
 Bei Problemen kann die Zone deaktiviert und Unbound neugestartet werden.
 Öffentliche DNS-Anfragen werden dann allerdings wieder unverschlüsselt
 versendet.
+
+## OpenWrt-Updates
+
+Nach dem Einspielen eines neuen OpenWrt-Images müssen die oben genannten
+Softwarepakete neu installiert werden. Dafür sind die beiden Einstellungen
+unter [dnsmasq konfigurieren](#dnsmasq-konfigurieren) vorübergehend rückgängig
+zu machen.
+
+Wenn Unbound installiert ist, kann dnsmasq wieder wie beschrieben konfiguriert
+werden. Der [DNS Leak Test][] sollte dann den gewählten DoT Server anzeigen!
+
+---
 
 Basierend auf [DNS over TLS with Unbound][].
 
