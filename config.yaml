@@ -21,10 +21,7 @@ params:
   featured_image: images/artikel10-header.jpg
   mastodon: https://chaos.social/@artikel10ev
   twitter: https://twitter.com/artikel10ev
-
-blackfriday:
-  hrefTargetBlank: true
-  noreferrerLinks: true
+  custom_css: [css/ananke-tweaks.css]
 
 privacy:
   disqus:
