@@ -20,7 +20,7 @@ Und das geht so:
 
 Neue Softwarepakete werden unter _System / Software_ installiert:
 
-[![OpenWrt Softwaremanager](../openwrt-software.png)](../openwrt-software.png)
+[![OpenWrt Softwaremanager](openwrt-software.png)](openwrt-software.png)
 
 * Zuerst mit _Update lists..._ die Liste der verfügbaren Pakete aktualisieren.
 * Dann folgende Pakete (in dieser Reihenfolge) installieren:
@@ -33,7 +33,7 @@ Neue Softwarepakete werden unter _System / Software_ installiert:
 
 dnsmasq wird unter _Network / DHCP and DNS_ konfiguriert:
 
-[![OpenWrt dnsmasq-Konfiguration](../openwrt-dnsmasq.png)](../openwrt-dnsmasq.png)
+[![OpenWrt dnsmasq-Konfiguration](openwrt-dnsmasq.png)](openwrt-dnsmasq.png)
 
 * _General Settings_: bei _DNS forwardings_ den Eintrag `127.0.0.1#1053` hinzufügen.
 * _Resolv and Hosts Files_: die Option _Ignore resolv file_ aktivieren.
@@ -48,7 +48,7 @@ konfigurierten DNS-Server.
 
 Unbound wird unter _Services / Recursive DNS_ konfiguriert:
 
-[![OpenWrt Unbound-Konfiguration](../openwrt-unbound.png)](../openwrt-unbound.png)
+[![OpenWrt Unbound-Konfiguration](openwrt-unbound.png)](openwrt-unbound.png)
 
 * _Basic_: den _Listening Port_ auf `1053` setzen.
 * Alle bisherigen Änderungen mit _Save & Apply_ aktivieren.
@@ -75,12 +75,12 @@ Eine neue Zone anlegen und konfigurieren:
 
 Beispiel für [`dot1.applied-privacy.net`](https://applied-privacy.net/services/dns/):
 
-[![OpenWrt Unbound Zone](../openwrt-unbound-zone.png)](../openwrt-unbound-zone.png)
+[![OpenWrt Unbound Zone](openwrt-unbound-zone.png)](openwrt-unbound-zone.png)
 
 Nachdem die Änderungen mit _Save & Apply_ aktiviert wurden, muss Unbound unter
 _Status / Processes_ neugestartet werden:
 
-[![OpenWrt Prozessmanager](../openwrt-processes.png)](../openwrt-processes.png)
+[![OpenWrt Prozessmanager](openwrt-processes.png)](openwrt-processes.png)
 
 * Unbound (_/usr/sbin/unbound_) per _Hang Up_ neustarten.
 
