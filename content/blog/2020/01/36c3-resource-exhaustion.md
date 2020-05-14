@@ -20,7 +20,7 @@ Zum ersten Mal haben wir auf diesem Congress ein Tor Organizations Meetup
 veranstaltet, bei dem Exit-betreibende Gruppen sich über aktuelle
 Herausforderungen austauschen konnten.
 
-![Photo of 36C3 Tor Assembly](/images/36c3-tor-assembly.jpg "36C3 Tor Assembly by utzer (CC0)")
+![Photo of 36C3 Tor Assembly](36c3-tor-assembly.jpg "36C3 Tor Assembly by utzer (CC0)")
 
 [36c3]: https://events.ccc.de/congress/2019/wiki/index.php/Main_Page
 [artikel5]: https://www.artikel5ev.de/
