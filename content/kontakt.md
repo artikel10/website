@@ -8,7 +8,7 @@ Unsere Emailadresse für direkte Anfragen ist <info@artikel10.org>.
 
 Unser [GPG Key][] (0x5A7563B99D808815) hat den folgenden Fingerprint:
 
-`ED0D 2E01 A596 30B9 767E  819D 5562 F398 3A14 AD5F`
+`401C 81D4 32FB AD2C EEB0  FA14 5A75 63B9 9D80 8815`
 
 Es gibt auch eine öffentliche [Mailingliste][], die von uns und anderen
 Interessierten gelesen wird.
