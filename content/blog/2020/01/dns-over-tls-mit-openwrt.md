@@ -2,7 +2,7 @@
 title: DNS-over-TLS mit OpenWrt
 date: 2020-01-19T13:12:41+01:00
 type: post
-tags: [dns-over-tls, dot, dns, openwrt]
+tags: [dns, openwrt]
 ---
 
 Webseiten ohne HTTPS sind zum Glück selten geworden. Allerdings werden
@@ -73,7 +73,7 @@ Eine neue Zone anlegen und konfigurieren:
 | _DNS over TLS_ | Option aktivieren. |
 | _TLS Name Index_ | Hostnamen des DoT Servers eintragen. |
 
-Beispiel für [`dot1.applied-privacy.net`](https://applied-privacy.net/services/dns/):
+Beispiel für [dns.artikel10.org](https://dns.artikel10.org/):
 
 [![OpenWrt Unbound Zone](openwrt-unbound-zone.png)](openwrt-unbound-zone.png)
 
@@ -85,7 +85,7 @@ _Status / Processes_ neugestartet werden:
 * Unbound (_/usr/sbin/unbound_) per _Hang Up_ neustarten.
 
 Zu diesem Zeitpunkt sollten öffentliche DNS-Anfragen an den DoT Server gehen.
-Dies lässt sich mit dem [DNS Leak Test][] prüfen, der eine der konfigurierten
+Dies lässt sich mit einem [DNS Leak Test][] prüfen, der die konfigurierten
 IP-Adressen anzeigen sollte.
 
 Idealerweise validiert der DoT Server auch [DNSSEC][], was z.B. der
@@ -109,7 +109,7 @@ werden. Der [DNS Leak Test][] sollte dann den gewählten DoT Server anzeigen!
 
 Basierend auf [DNS over TLS with Unbound][].
 
-[dns leak test]: https://dnsleaktest.com/
+[dns leak test]: https://browserleaks.com/dns
 [dns over tls with unbound]: https://openwrt.org/docs/guide-user/services/dns/dot_unbound
 [dns-over-tls]: https://de.wikipedia.org/wiki/DNS_over_TLS
 [dns]: https://de.wikipedia.org/wiki/Domain_Name_System

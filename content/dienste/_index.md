@@ -5,6 +5,8 @@ type: page
 layout: single
 ---
 
-Vom Verein betriebene Dienste:
+Artikel10 betreibt verschiedene Datenschutz-förderliche Dienste:
 
+* [DNS Resolver](/dienste/dns-resolver)
 * [Tor Relays](/dienste/tor-relays)
+* [Statusseite](https://status.artikel10.org/) für unsere Dienste
