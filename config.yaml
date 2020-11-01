@@ -6,8 +6,8 @@ menu:
   main:
   - name: Blog
     url: /blog
-  - name: Tor Relays
-    url: /dienste/tor-relays
+  - name: Dienste
+    url: /dienste
   - name: Verein
     url: /verein
 
