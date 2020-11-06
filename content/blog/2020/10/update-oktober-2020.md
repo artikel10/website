@@ -29,7 +29,7 @@ In unserem [Juni-Update][] berichteten wir von einer wichtigen Entscheidung des 
 In einem Blogpost hat das Tor Community-Mitglied [nusenu][] veröffentlicht, dass in diesem Jahr eine große Anzahl bösartiger Tor Exits betrieben wurde mit dem Ziel, u.a. Interaktionen mit Kryptowährungsseiten zu manipulieren. Dass dies so einfach und lange möglich war, zeigt uns, wie wichtig der Ausbau von Tor Exit-Kapazität in der Tor Community ist.
 
 [gesetzesentwurf]: https://netzpolitik.org/2020/bnd-gesetz-eine-neue-lizenz-zum-hacken/
-[juni-update]: https://artikel10.org/blog/2020/05/update-juni-2020/
+[juni-update]: /blog/2020/05/update-juni-2020/
 [nusenu]: https://medium.com/@nusenu/how-malicious-tor-relays-are-exploiting-users-in-2020-part-i-1097575c0cac
 
 Verschlüsselt mehr und bleibt gesund,  
