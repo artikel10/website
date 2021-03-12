@@ -9,13 +9,17 @@ Das [Tor-Projekt] erforscht sichere und vertrauliche Kommunikation im Internet.
 Die Server des Tor Netzwerks werden von Freiwilligen betrieben, die sie der
 Allgemeinheit kostenfrei zur Verfügung stellen.
 
-Der Verein unterstützt das Projekt durch den Betrieb von Exit Relays, die den
-Zugang vom Tor Netzwerk zum Rest des Internets ermöglichen.
+Der Verein unterstützt das Projekt durch den Betrieb von [Exit Relays][], die
+den Zugang vom Tor Netzwerk zum Rest des Internets ermöglichen.
 
 * [artikel10ams01][] / [artikel10ams02][]
   * Standort: Amsterdam
   * IPv4: `45.151.167.10`
   * IPv6: `2001:678:e3c::a`
+* [artikel10ams03][]
+  * Standort: Amsterdam
+  * IPv4: `45.151.167.11`
+  * IPv6: `2001:678:e3c::b`
 * [artikel10buc01][]
   * Standort: Bukarest
   * IPv4: `185.100.87.250`
@@ -23,5 +27,7 @@ Zugang vom Tor Netzwerk zum Rest des Internets ermöglichen.
 
 [artikel10ams01]: https://metrics.torproject.org/rs.html#details/A14D96E6C4C3A5AF3D7E57AC0A85AE82BDFB0F4B
 [artikel10ams02]: https://metrics.torproject.org/rs.html#details/0EF99182CB04B14A718EFDFCC0FA3528ED486AB5
+[artikel10ams03]: https://metrics.torproject.org/rs.html#details/7F27E3E2C5DAAC21C90F083D95BD7178DD4B041E
 [artikel10buc01]: https://metrics.torproject.org/rs.html#details/ABD9D46C3C026CF6B88574A0707D0BF75A067999
+[exit relays]: https://metrics.torproject.org/rs.html#search/artikel10%20flag:exit%20family:A14D96E6C4C3A5AF3D7E57AC0A85AE82BDFB0F4B
 [tor-projekt]: https://www.torproject.org/de/
