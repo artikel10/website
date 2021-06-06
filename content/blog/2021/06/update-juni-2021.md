@@ -19,7 +19,7 @@ Unser [DNS Resolver][] sei hier auch noch einmal erwähnt, da das DNS-Protokoll 
 
 [dns resolver]: /blog/2020/12/sicherer-dns-resolver/
 [gründung]: /blog/2019/05/hallo-neuland/
-[tor relays]: http://localhost:1313/dienste/tor-relays/
+[tor relays]: /dienste/tor-relays/
 
 ## Was macht die Forschung?
 
