@@ -10,3 +10,6 @@ Artikel10 betreibt verschiedene Datenschutz-förderliche Dienste:
 * [DNS Resolver](/dienste/dns-resolver)
 * [Tor Relays](/dienste/tor-relays)
 * [Statusseite](https://status.artikel10.org/) für unsere Dienste
+
+Sollten wir jemals gerichtlich verpflichtet werden, unsere Nutzer\*innen zu
+überwachen, werden wir den entsprechenden Dienst einstellen.
