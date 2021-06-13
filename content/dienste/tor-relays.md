@@ -13,19 +13,19 @@ Der Verein unterstützt das Projekt durch den Betrieb von [Exit Relays][], die
 den Zugang vom Tor Netzwerk zum Rest des Internets ermöglichen.
 
 * [artikel10ams01][] / [artikel10ams02][]
-  * Standort: Amsterdam
+  * Standort: Amsterdam ([ColoClue][])
   * IPv4: `45.151.167.10`
   * IPv6: `2001:678:e3c::a`
 * [artikel10ams03][] / [artikel10ams04][]
-  * Standort: Amsterdam
+  * Standort: Amsterdam ([ColoClue][])
   * IPv4: `45.151.167.11`
   * IPv6: `2001:678:e3c::b`
 * [artikel10buc01][] / [artikel10buc02][]
-  * Standort: Bukarest
+  * Standort: Bukarest ([FlokiNET][])
   * IPv4: `185.100.87.250`
   * IPv6: `2a06:1700:0:12::1`
 * [artikel10buc03][] / [artikel10buc04][]
-  * Standort: Bukarest
+  * Standort: Bukarest ([FlokiNET][])
   * IPv4: `185.100.87.192`
   * IPv6: `2a06:1700:0:12::2`
 
@@ -37,5 +37,7 @@ den Zugang vom Tor Netzwerk zum Rest des Internets ermöglichen.
 [artikel10buc02]: https://metrics.torproject.org/rs.html#details/072E2883854ADA0C6B0FC1497544E529D9FD8373
 [artikel10buc03]: https://metrics.torproject.org/rs.html#details/3A05E35BB1E59F318B684A7470B742785AEB0783
 [artikel10buc04]: https://metrics.torproject.org/rs.html#details/C962D865AE72B6F2EF08E77F3B15894B9539C2B6
+[coloclue]: https://coloclue.net/en/
 [exit relays]: https://metrics.torproject.org/rs.html#search/artikel10%20flag:exit%20family:A14D96E6C4C3A5AF3D7E57AC0A85AE82BDFB0F4B
+[flokinet]: https://flokinet.is/
 [tor-projekt]: https://www.torproject.org/de/
